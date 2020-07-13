@@ -3,7 +3,7 @@ import json
 import os
 
 headers = {
-	'hibp-api-key': '719c61e4f75a4516b507fdfa4028f4fe'
+	'hibp-api-key': '95db5cbc5c6b47b491b1cf089837e89f'
 }
 
 hunter_key = 'ca33fe0a60af93832be64e576d316b5a34140b2c'
